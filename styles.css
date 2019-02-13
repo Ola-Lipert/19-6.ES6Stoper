@@ -1,0 +1,24 @@
+body {
+    background-color: #1e272e;
+    text-align: center;
+    margin: 30px;
+
+}
+
+.button {
+    color: #808e9b;
+    text-transform: uppercase;
+    font-size: 20px;
+    text-decoration: none;
+    padding-right: 10px;
+}
+
+.button:hover {
+    color: #d2dae2;
+
+}
+
+.stopwatch {
+    font-size: 80px;
+    color: #808e9b;
+}
