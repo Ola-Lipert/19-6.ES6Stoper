@@ -19,7 +19,9 @@
   },
   "homepage": "https://github.com/Ola-Lipert/19-6.ES6Stoper#readme",
   "devDependencies": {
-    "babel-cli": "^6.26.0",
-    "babel-preset-latest": "^6.24.1"
+    "@babel/cli": "^7.2.3",
+    "@babel/core": "^7.4.0",
+    "@babel/preset-env": "^7.4.2",
+    "@babel/preset-react": "^7.0.0"
   }
 }
